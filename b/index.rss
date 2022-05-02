@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+	<title>/b/ - Random</title>
+	<link>/b/</link>
+	<description>Live feed of new threads on the board /b/ - Random.</description>
+	<atom:link href="/b/index.rss" rel="self" type="application/rss+xml"/>
+		<item>
+		<title>First!!</title>
+		<link>/b/res/1.html</link>
+		<guid>/b/res/1.html</guid>
+		<comments>/b/res/1.html</comments>
+		<pubDate>Mon, 25 Apr 2022 07:03:54 -0700</pubDate>
+		<description><![CDATA[ <a href='/b/res/1.html' target=_blank><img style='float:left;margin:8px' border=0 src='/b/thumb/1650895434148.png'></a> First!! ]]></description>
+	</item>
+	</channel>
+</rss>
